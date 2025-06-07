@@ -7,12 +7,6 @@ The unit focuses on scalable cloud architectures, public cloud deployments, and 
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-accbee?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/monicaborg/)
-![Views](https://komarev.com/ghpvc/?username=monicaborg&style=for-the-badge&color=f4c2c2)
-![Woman in STEM](https://img.shields.io/badge/Woman_in_STEM-f7cce6?style=for-the-badge)
-
----
-
 ## 📘 Unit Overview
 
 **Coordinator:** Matthew McKague  
