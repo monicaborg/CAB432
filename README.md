@@ -69,7 +69,3 @@ This repository may include:
 - 📁 Project structure and breakdowns  
 - 📄 Final report drafts
 
----
-
-Thanks for visiting! 🌸  
-For any questions or feedback, feel free to open an issue or connect on [LinkedIn](https://www.linkedin.com/in/monicaborg/).
