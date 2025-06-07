@@ -45,27 +45,3 @@ CAB432 explores cloud services from design to deployment, guiding students in bu
 | **Web Application Project**  | 30%    | Week 6 | Deploy a containerised server-side web app                                 |
 | **Cloud Services Exercises** | 30%    | Week 9 | Integrate cloud services like identity and storage                         |
 | **Cloud Project + Report**   | 40%    | Week 13| Final scalable, multi-service cloud solution with written documentation    |
-
-All submissions eligible for 48-hour grace period.
-
----
-
-## 🛠️ Tools & Tech Stack
-
-- JavaScript (Node.js), Docker
-- HTML / CSS (basic use)
-- Public cloud APIs (e.g., AWS, Azure, or GCP)
-- GitHub for version control
-
----
-
-## 📌 Notes & Structure
-
-This repository may include:
-
-- 🌐 Deployment guides  
-- 🧪 Practical exercises  
-- 📜 Weekly notes  
-- 📁 Project structure and breakdowns  
-- 📄 Final report drafts
-
